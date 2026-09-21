@@ -1,0 +1,87 @@
+.container {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  /* width: 1024px; */
+  /* height: 100px; */
+  /* background-color: red; */
+  /* margin-left: auto;
+        margin-right: auto; */
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+nav {
+  /* width: 1024px; */
+  /* height: 80px; */
+  background-color: black;
+  /* margin-left: auto;
+      margin-right: auto; */
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+img {
+  height: 100px;
+  mix-blend-mode: normal;
+}
+
+main {
+  /* width: 1024px; */
+  /* height: 400px; */
+  background-color: gray;
+  /* margin-left: auto;
+       margin-right: auto; */
+  text-align: center;
+  padding: 100px;
+  background-color: white;
+  padding-bottom: 100px;
+  background-color: rgba(127, 127, 128, 0.504);
+  font-family: Tahoma;
+}
+
+main a {
+  text-decoration: underline;
+}
+
+footer {
+  /* width: 1024px; 
+    height: 100px; */
+  background-color: black;
+  /* margin-left: auto;
+       margin-right: auto; */
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+
+h1 {
+  font-size: 45px;
+}
+
+p {
+  margin: 0px;
+}
+
+body {
+  background-color: grey;
+  background-image: url(./Images/BImg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
